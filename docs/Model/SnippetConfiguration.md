@@ -1,0 +1,11 @@
+# # SnippetConfiguration
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**container_id** | **string** |  | [optional]
+**loader_id** | **string** |  | [optional]
+**object_id** | **string** |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
