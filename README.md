@@ -2,6 +2,17 @@
 
 Delivery Checkout provides almost unlimited flexibility in selecting delivery options while securing that the process is as convenient and as fast as it physically can. ⚡
 
+### [Documentation](https://developer.ingrid.com/delivery_checkout/)
+
+## Generate API Client
+
+```
+$ openapi-generator generate \
+      -i https://api.ingrid.com/v1/siw/_/swagger.json \
+      -g php \
+      -o siw
+``` 
+
 ## Installation & Usage
 
 ### Requirements
